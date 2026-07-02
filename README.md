@@ -1,10 +1,16 @@
 # Customer Churn Risk Prediction from Financial Support Tickets
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sri-churn-classifier.streamlit.app)
+
 An end-to-end NLP pipeline that predicts churn risk from consumer complaint narratives using real federal data from the Consumer Financial Protection Bureau (CFPB).
 
 ## Project Overview
 
 This project explores whether the text of a customer complaint can predict how a company will respond to it — a proxy for customer churn risk. It uses ~550,000 real consumer complaints filed with the CFPB against major U.S. financial institutions.
+
+## 🚀 Live Demo
+
+Try the deployed app: **https://sri-churn-classifier.streamlit.app**
 
 **Business Question:** Can we identify at-risk customers from their complaint language alone, so companies can proactively intervene before they churn?
 
